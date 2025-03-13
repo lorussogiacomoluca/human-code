@@ -1,5 +1,4 @@
 # Esercizio 20
-
 # 👥 Human Code - Esercitazione di Gruppo 👥
 
 ---
@@ -25,6 +24,13 @@ Ciascun team dovrà fare un brainstorming per analizzare e scomporre il problema
 ## ⏱️ Tempistiche
 
 Avete 1 ora di tempo per ragionare sul vostro esercizio ed elaborare il diagramma di flusso, poi intorno alle 16 ci si ritroverà tutti assieme per esporre agli altri team quanto prodotto e discuterne insieme.
+
+---
+
+## 📺 Traccia 1: Scegliere cosa guardare su Netflix
+
+Che barba, che noia, che noia, che barba!
+Perché ci si mette sempre un'ora a scegliere cosa guardare la sera? Certo è difficile mettere d'accordo i gusti di tutti, poi dipende anche in base al tempo (o al sonno) che abbiamo. Delle volte si pensa di vedere quel bel film che ci hanno consigliato, mentre altre volte si viene risucchiati da quella serie tv che ci tiene incollati allo schermo. Che senso di vuoto quando poi finisce!
 
 ---
 
