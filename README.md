@@ -1,4 +1,4 @@
-#Esercizio 20
+# Esercizio 20
 
 # 👥 Human Code - Esercitazione di Gruppo 👥
 
